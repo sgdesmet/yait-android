@@ -24,4 +24,5 @@ dependencies {
     testCompile 'junit:junit:4.12'
     compile 'com.android.support:appcompat-v7:24.1.0'
     compile 'mobi.upod:time-duration-picker:1.0.3'
+    compile 'com.android.support:support-compat:24.2.1'
 }
