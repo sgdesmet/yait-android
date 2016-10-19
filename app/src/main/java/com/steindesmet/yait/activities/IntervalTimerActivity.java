@@ -1,7 +1,8 @@
 package com.steindesmet.yait.activities;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
+import com.steindesmet.yait.R;
 
 public class IntervalTimerActivity extends AppCompatActivity {
 
